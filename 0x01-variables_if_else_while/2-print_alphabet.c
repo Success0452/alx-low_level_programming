@@ -1,6 +1,6 @@
 #include<stdio.h>
 /* this code help us to write small letter alphabet */
-int main (void)
+int main(void)
 
 {
 char A;
