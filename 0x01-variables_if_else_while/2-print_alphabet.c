@@ -1,5 +1,9 @@
 #include<stdio.h>
-/* this code help us to write small letter alphabet */
+/**
+ * main -Entry point
+ *
+ * Return: Always 0 (Success/correct)
+ */
 int main(void)
 
 {
